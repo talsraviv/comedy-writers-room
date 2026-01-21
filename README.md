@@ -2,7 +2,11 @@
 
 A Claude Code skill that demonstrates subagents by having one write jokes while three others play audience members reacting to them.
 
-[![Watch the video](https://substack-video.s3.amazonaws.com/video_upload/post/185286108/38e36ff7-f8fa-45f5-bf2f-6688d800543b/transcoded-48883.png)](https://www.talraviv.co/p/i-wanted-to-understand-subagents)
+Video walkthrough of how to use this:
+
+<a href="https://www.talraviv.co/p/i-wanted-to-understand-subagents">
+  <img src="https://substack-video.s3.amazonaws.com/video_upload/post/185286108/38e36ff7-f8fa-45f5-bf2f-6688d800543b/transcoded-48883.png" width="400" alt="Watch the video">
+</a>
 
 ## Why subagents?
 
